@@ -1,5 +1,5 @@
 # Pytools_hacking
 ### hacking Tools examples
 
-* ## Subdomain recognition
+* ## Enumeration of subdomains
 ![Descripción de la imagen](/imgs/subdomain.png "Example")
