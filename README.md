@@ -1,5 +1,12 @@
 # Pytools_hacking
 ### hacking Tools examples
 
-* ## Enumeration of subdomains
-![Descripción de la imagen](/imgs/subdomain.png "Example")
+### Use:
+
+* Enumeration of subdomains
+![](/imgs/subdomain.png "Example")
+
+* usign custom dictionary:
+![](/imgs/subdomains_custom_dict.png "Example Custom dict")
+* help:
+![](/imgs/help.png "help")
