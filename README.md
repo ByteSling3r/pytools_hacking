@@ -6,7 +6,8 @@
 * Enumeration of subdomains
 ![](/imgs/subdomain.png "Example")
 
-* usign custom dictionary:
+* Usign custom dictionary:
+
 ![](/imgs/subdomains_custom_dict.png "Example Custom dict")
-* help:
+* Help:
 ![](/imgs/help.png "help")
